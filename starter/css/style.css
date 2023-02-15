@@ -58,25 +58,56 @@ ul li a {
 .page-section1{
   display: flex;
   flex-direction:row;
-  align-content:space-between ;  
+  
 }
 
 .info{
   padding-right: 20px;
   border-right: 5px solid rgba(94, 11, 22, 0.733);
-  height: 200px;
+  height: 150px;
+  margin-top: 5px;
+  margin-bottom: 5px;
 }
+
+
+
 
 .content1{
   margin-left: 10px;
   margin-right: 1px;
 }
 
-
+.page-section2{
+  display: flex;
+  flex-direction: row;
   
+}
 
+.info2{
+  padding-right: 20px;
+  border-right: 5px solid rgba(94, 11, 22, 0.733);
   
+  margin-left: 8px;
+}
 
+
+
+.feature-1{
+  margin-top: 5px;
+  margin-left: 15px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 150%;
+  height: 150px;
+  flex: 11;
+  border: 1px solid;
+  background-image: url(../images/02-portfolio-24.jpg);  
+}
+
+.sub-grand{
+  padding: 0px 20px 0px 10px;
+  .
+}
 
 
 
