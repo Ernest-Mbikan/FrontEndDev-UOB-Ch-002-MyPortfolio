@@ -41,7 +41,7 @@ header .tab-container {
 header .tab-container a {
   text-decoration: none;
   padding: 5px 10px;
-  color: var(--secondary);
+  color: rgb(146, 204, 206);
   margin-right: 10px;
   background-image: linear-gradient(270deg, rgb(146, 204, 206) 0%, rgb(146, 204, 206) 100%);
   background-repeat: no-repeat;
@@ -54,7 +54,7 @@ header .tab-container a {
 
 .tab-container a:hover {
   background-size: 100% 100%;
-  color: rgb(68, 88, 119);
+  color: rgb(238, 238, 247);
 }
 
 .hero-banner .hero-banner {
@@ -124,9 +124,9 @@ h1, h2, h3, h4, h5, h6, p {
 }
 
 .flex-item {
-  border: 5px solid var(--secondary);
-  background-color: var(--primary);
-  color: var(--tertiary);
+  border: 5px solid rgb(146, 204, 206);
+  background-color: rgb(68, 88, 119);
+  color: rgb(49, 52, 61);
   min-height: 150px;
   max-height: 150px;
   flex-basis: calc(50% - 1em);
@@ -182,6 +182,11 @@ div {
   transition: all 0.25s ease-in;
   margin: 0 0.2rem 0.1rem;
   display: inline-block;
+}
+
+#contact address a:hover {
+  background-size: 100% 80%;
+  color: rgb(238, 238, 247);
 }
 
 /* project features images */
