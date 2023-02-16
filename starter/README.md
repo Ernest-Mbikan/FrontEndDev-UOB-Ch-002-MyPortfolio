@@ -19,10 +19,10 @@ The following animation shows the web application's appearance and functionality
 
 ![01-css-challenge-demo.gif](images\01-css-challenge-demo.gif)
 
-
-
 ### Wire Frame
 
 ![1676431815558](image/README/1676431815558.png)
 
+## Completed
 
+b
